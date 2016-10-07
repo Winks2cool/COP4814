@@ -1,0 +1,4 @@
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - Start\Hotel Reservation BI\bin\Debug\Hotel Reservation BI.dll
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - Start\Hotel Reservation BI\bin\Debug\Hotel Reservation BI.pdb
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - Start\Hotel Reservation BI\obj\Debug\Hotel Reservation BI.dll
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - Start\Hotel Reservation BI\obj\Debug\Hotel Reservation BI.pdb

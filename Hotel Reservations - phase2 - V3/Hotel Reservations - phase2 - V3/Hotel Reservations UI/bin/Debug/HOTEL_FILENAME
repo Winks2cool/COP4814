@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hotel>
+    <Id>12345</Id>
+    <Name>Hyatt</Name>
+    <Address>123 NE 4th Ave</Address>
+    <Features>
+      <Features>
+        <Laundry>true</Laundry>
+        <Aircon>false</Aircon>
+        <Breakfast>true</Breakfast>
+        <Shuttle>true</Shuttle>
+      </Features>
+    </Features>
+    <Distances>
+      <Distances>
+        <Beach>0.2</Beach>
+        <Shopping>0.5</Shopping>
+        <Airport>3.5</Airport>
+      </Distances>
+    </Distances>
+  </Hotel>
+</ArrayOfHotel>

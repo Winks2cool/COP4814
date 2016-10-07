@@ -1,0 +1,25 @@
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - Start\Hotel Reservation BI\bin\Debug\Hotel Reservation BI.dll
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - Start\Hotel Reservation BI\bin\Debug\Hotel Reservation BI.pdb
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - Start\Hotel Reservation BI\obj\Debug\Hotel Reservation BI.dll
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - Start\Hotel Reservation BI\obj\Debug\Hotel Reservation BI.pdb
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - Start\Hotel Reservation BI\obj\Debug\Hotel Reservations BI.csprojResolveAssemblyReference.cache
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - phase2\Hotel Reservation BI\bin\Debug\Hotel Reservation BI.dll
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - phase2\Hotel Reservation BI\bin\Debug\Hotel Reservation BI.pdb
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - phase2\Hotel Reservation BI\obj\Debug\Hotel Reservations BI.csprojResolveAssemblyReference.cache
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - phase2\Hotel Reservation BI\obj\Debug\Hotel Reservation BI.dll
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - phase2\Hotel Reservation BI\obj\Debug\Hotel Reservation BI.pdb
+E:\Downloads\Hotel Reservations - phase2 - V2\Hotel Reservations - phase2 - V2\Hotel Reservation BI\bin\Debug\Hotel Reservation BI.dll
+E:\Downloads\Hotel Reservations - phase2 - V2\Hotel Reservations - phase2 - V2\Hotel Reservation BI\bin\Debug\Hotel Reservation BI.pdb
+E:\Downloads\Hotel Reservations - phase2 - V2\Hotel Reservations - phase2 - V2\Hotel Reservation BI\obj\Debug\Hotel Reservations BI.csprojResolveAssemblyReference.cache
+E:\Downloads\Hotel Reservations - phase2 - V2\Hotel Reservations - phase2 - V2\Hotel Reservation BI\obj\Debug\Hotel Reservation BI.dll
+E:\Downloads\Hotel Reservations - phase2 - V2\Hotel Reservations - phase2 - V2\Hotel Reservation BI\obj\Debug\Hotel Reservation BI.pdb
+F:\Hotel Reservations - phase2 - V2\Hotel Reservations - phase2 - V2\Hotel Reservation BI\bin\Debug\Hotel Reservation BI.dll
+F:\Hotel Reservations - phase2 - V2\Hotel Reservations - phase2 - V2\Hotel Reservation BI\bin\Debug\Hotel Reservation BI.pdb
+F:\Hotel Reservations - phase2 - V2\Hotel Reservations - phase2 - V2\Hotel Reservation BI\obj\Debug\Hotel Reservations BI.csprojResolveAssemblyReference.cache
+F:\Hotel Reservations - phase2 - V2\Hotel Reservations - phase2 - V2\Hotel Reservation BI\obj\Debug\Hotel Reservation BI.dll
+F:\Hotel Reservations - phase2 - V2\Hotel Reservations - phase2 - V2\Hotel Reservation BI\obj\Debug\Hotel Reservation BI.pdb
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - phase2 - V3\Hotel Reservations - phase2 - V3\Hotel Reservation BI\bin\Debug\Hotel Reservation BI.dll
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - phase2 - V3\Hotel Reservations - phase2 - V3\Hotel Reservation BI\bin\Debug\Hotel Reservation BI.pdb
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - phase2 - V3\Hotel Reservations - phase2 - V3\Hotel Reservation BI\obj\Debug\Hotel Reservations BI.csprojResolveAssemblyReference.cache
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - phase2 - V3\Hotel Reservations - phase2 - V3\Hotel Reservation BI\obj\Debug\Hotel Reservation BI.dll
+C:\Users\winks\Documents\Visual Studio 2015\Projects\Hotel Reservations - phase2 - V3\Hotel Reservations - phase2 - V3\Hotel Reservation BI\obj\Debug\Hotel Reservation BI.pdb

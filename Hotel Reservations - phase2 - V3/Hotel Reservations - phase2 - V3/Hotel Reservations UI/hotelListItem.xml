@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHotelListItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HotelListItem>
+    <ID>000111</ID>
+    <Name>Courtyard Suites</Name>
+    <Rating>4.5</Rating>
+    <roomTypes>
+      <Room>
+        <ID>Single King Bed</ID>
+        <DailyRate>140</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>Single Queen Bed</ID>
+        <DailyRate>120</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>Two Double Beds</ID>
+        <DailyRate>130</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>One Bedroom Suite</ID>
+        <DailyRate>230</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+    </roomTypes>
+  </HotelListItem>
+  <HotelListItem>
+    <ID>000222</ID>
+    <Name>Best Eastern Inn</Name>
+    <Rating>3.5</Rating>
+    <roomTypes>
+      <Room>
+        <ID>Single King Bed</ID>
+        <DailyRate>150</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>Single Queen Bed</ID>
+        <DailyRate>120</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>Two Double Beds</ID>
+        <DailyRate>140</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>One Bedroom Suite</ID>
+        <DailyRate>280</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+    </roomTypes>
+  </HotelListItem>
+  <HotelListItem>
+    <ID>000333</ID>
+    <Name>Gil's One Stop Palace</Name>
+    <Rating>3</Rating>
+    <roomTypes>
+      <Room>
+        <ID>Single King Bed</ID>
+        <DailyRate>120</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>Single Queen Bed</ID>
+        <DailyRate>100</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>Two Double Beds</ID>
+        <DailyRate>110</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>One Bedroom Suite</ID>
+        <DailyRate>200</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+    </roomTypes>
+  </HotelListItem>
+  <HotelListItem>
+    <ID>000444</ID>
+    <Name>Emilo's Inn</Name>
+    <Rating>2.5</Rating>
+    <roomTypes>
+      <Room>
+        <ID>Single King Bed</ID>
+        <DailyRate>130</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>Single Queen Bed</ID>
+        <DailyRate>110</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>Two Double Beds</ID>
+        <DailyRate>120</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>One Bedroom Suite</ID>
+        <DailyRate>195</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+    </roomTypes>
+  </HotelListItem>
+  <HotelListItem>
+    <ID>000555</ID>
+    <Name>BaySide Resort</Name>
+    <Rating>4.5</Rating>
+    <roomTypes>
+      <Room>
+        <ID>Single King Bed</ID>
+        <DailyRate>100</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>Single Queen Bed</ID>
+        <DailyRate>90</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>Two Double Beds</ID>
+        <DailyRate>80</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>One Bedroom Suite</ID>
+        <DailyRate>155</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+    </roomTypes>
+  </HotelListItem>
+  <HotelListItem>
+    <ID>000666</ID>
+    <Name>Annehart and Mcdaughty's Fireside Resort</Name>
+    <Rating>1.5</Rating>
+    <roomTypes>
+      <Room>
+        <ID>Single King Bed</ID>
+        <DailyRate>135</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>Single Queen Bed</ID>
+        <DailyRate>120</DailyRate>
+        <Capacity>2/2</Capacity>
+      </Room>
+      <Room>
+        <ID>Two Double Beds</ID>
+        <DailyRate>125</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>One Bedroom Suite</ID>
+        <DailyRate>195</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+    </roomTypes>
+  </HotelListItem>
+  <HotelListItem>
+    <ID>000777</ID>
+    <Name>Marriott at Dadeland</Name>
+    <Rating>4</Rating>
+    <roomTypes>
+      <Room>
+        <ID>Single King Bed</ID>
+        <DailyRate>155</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>Single Queen Bed</ID>
+        <DailyRate>140</DailyRate>
+        <Capacity>2/2</Capacity>
+      </Room>
+      <Room>
+        <ID>Two Double Beds</ID>
+        <DailyRate>145</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>One Bedroom Suite</ID>
+        <DailyRate>195</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+    </roomTypes>
+  </HotelListItem>
+  <HotelListItem>
+    <ID>000888</ID>
+    <Name>Courtyard Nautica</Name>
+    <Rating>4.5</Rating>
+    <roomTypes>
+      <Room>
+        <ID>Single King Bed</ID>
+        <DailyRate>165</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>Single Queen Bed</ID>
+        <DailyRate>150</DailyRate>
+        <Capacity>2/2</Capacity>
+      </Room>
+      <Room>
+        <ID>Two Double Beds</ID>
+        <DailyRate>155</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>One Bedroom Suite</ID>
+        <DailyRate>295</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+    </roomTypes>
+  </HotelListItem>
+  <HotelListItem>
+    <ID>000999</ID>
+    <Name>Bedside Manners Inn</Name>
+    <Rating>5</Rating>
+    <roomTypes>
+      <Room>
+        <ID>Single King Bed</ID>
+        <DailyRate>185</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>Single Queen Bed</ID>
+        <DailyRate>170</DailyRate>
+        <Capacity>2/2</Capacity>
+      </Room>
+      <Room>
+        <ID>Two Double Beds</ID>
+        <DailyRate>177</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>One Bedroom Suite</ID>
+        <DailyRate>395</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+    </roomTypes>
+  </HotelListItem>
+  <HotelListItem>
+    <ID>0001000</ID>
+    <Name>Western Social</Name>
+    <Rating>2</Rating>
+    <roomTypes>
+      <Room>
+        <ID>Single King Bed</ID>
+        <DailyRate>195</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>Single Queen Bed</ID>
+        <DailyRate>180</DailyRate>
+        <Capacity>2/2</Capacity>
+      </Room>
+      <Room>
+        <ID>Two Double Beds</ID>
+        <DailyRate>187</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+      <Room>
+        <ID>One Bedroom Suite</ID>
+        <DailyRate>395</DailyRate>
+        <Capacity>2/0</Capacity>
+      </Room>
+    </roomTypes>
+  </HotelListItem>
+</ArrayOfHotelListItem>
